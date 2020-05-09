@@ -13,6 +13,6 @@ A mobile application project for my CS4237 (Software Design for Handheld Devices
 Given a user's location and certain preferences, the Application utilizes the WMATA Metro API as well as the Yelp Businesses API in order to display a map with a number of related attractions/restaurants centered around a location and provides the nearest Metro stop (if the target location is within the WMATA service area).
 
 # Example Usage Screenshots
-![Home Screen Image](https://github.com/reesealanj/Metro-Planner-App/blob/master/img/DetailsScreen.png)
+![Home Screen Image](https://github.com/reesealanj/Metro-Planner-App/blob/master/img/HomeScreen.png)
 ![Maps Screen Image](https://github.com/reesealanj/Metro-Planner-App/blob/master/img/MapScreen.png)
 ![Details Screen Image](https://github.com/reesealanj/Metro-Planner-App/blob/master/img/DetailsScreen.png)
