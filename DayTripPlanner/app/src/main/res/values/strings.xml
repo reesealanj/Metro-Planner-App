@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Day Trip Planner - Project 1</string>
+    <string name="dest_label">Destination</string>
+    <string name="food_label">Nearby Food</string>
+    <string name="attr_label">Nearby Attractions</string>
+    <string name="food_results">Number of Results (%1$s)</string>
+    <string name="attr_results">Number of Results (%1$s)</string>
+    <string name="bttn_label">SEARCH</string>
+    <string name="search_label">Search Results</string>
+    <string name="cancel_label">Cancel</string>
+    <string-array name="food_choices">
+        <item>Select a Cuisine...</item>
+        <item>Chinese</item>
+        <item>Japanese</item>
+        <item>Italian</item>
+        <item>American</item>
+        <item>French</item>
+        <item>Israeli</item>
+    </string-array>
+    <string-array name="attr_choices">
+        <item>Select an Attraction...</item>
+        <item>Art Galleries</item>
+        <item>Arcades</item>
+        <item>Jewelry</item>
+        <item>Aquariums</item>
+        <item>Boxing</item>
+        <item>Parks</item>
+    </string-array>
+
+    <!-- Labels for SharedPreferences -->
+    <string name="pref_file_name">day-trip-planner</string>
+    <string name="attr_seekBar">ATTR_SEEK</string>
+    <string name="attr_saved_selection">SAVED_ATTR_SELECT</string>
+    <string name="attr_saved_content">SAVED_ATTR_TEXT</string>
+    <string name="food_seekBar">FOOD_SEEK</string>
+    <string name="food_saved_selection">SAVED_FOOD_SELECT</string>
+    <string name="food_saved_content">SAVED_FOOD_TEXT</string>
+    <string name="dest_saved_content">SAVED_DEST_TEXT</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="selected_address">SAVED_ADDRESS</string>
+
+    <!-- Labels for Maps Screen -->
+    <string name="confirm_map">View Nearby</string>
+    <string name="address">Address</string>
+    <string name="goBack">Go Back</string>
+
+    <!-- Labels for Details Screen -->
+    <string name="phoneButton">Phone Icon</string>
+    <string name="webButton">Open External Site Icon</string>
+    <string name="pricePoint">$$$</string>
+</resources>
